@@ -94,7 +94,18 @@ class MainActivity : AppCompatActivity() {
             notifyDataSetChanged()
         }
 
-
+    /**
+     * 1- Briefly explain what the app does.
+     * 2- Identify thread safety issues, if any.
+     * 3- Identify memory leaks, if any.
+     * 4- Identify view binding issues in the adapter, if any.
+     * 5- Identify the current architectural pattern and reorganise in your preferred one or MVVM.
+     * 4- Identify UI layout issues, if any.
+     * 5- Serialize the response from the server.
+     * 6- Rate limit the requests to the server.
+     *
+     */
+     
     }
 
 
